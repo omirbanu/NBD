@@ -5,3 +5,8 @@ link1:
 http://htmlpreview.github.io/?https://github.com/omirbanu/NBD/blob/master/NBD-Part%201.html
 
 
+link2:
+http://htmlpreview.github.io/?https://github.com/omirbanu/NBD/blob/master/NBD-Part%202.html
+
+
+
